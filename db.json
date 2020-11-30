@@ -1,5 +1,5 @@
 {
-  manifest : {
+  "manifest" : {
     "short_name": "Doctor App",
     "name": "Prescribe Doctor App",
     "icons": [
@@ -13,6 +13,7 @@
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
-  }
+  },
+  
 }
   
