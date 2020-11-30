@@ -1,11 +1,18 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  manifest : {
+    "short_name": "Doctor App",
+    "name": "Prescribe Doctor App",
+    "icons": [
+      {
+        "src": "logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "/pwa-doctor",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
   }
 }
+  
